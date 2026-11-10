@@ -1,4 +1,8 @@
 /* 
+Diketahui: 
+f(5) = 5*(4/2)*3*(2/2)*1
+f(7) = 7*(6/2)*5*(4/2)*3*(2/2)*1
+
 - Pertama, saya mencari pola fungsi lainnya terlebih dahulu
 f(1) = 1
 f(2) = (2/2)*1
